@@ -2,7 +2,25 @@
 
 ## 目录
 
-[TOC]
+- [Win10 Terminal 打造](#win10-terminal-%E6%89%93%E9%80%A0)
+  - [目录](#%E7%9B%AE%E5%BD%95)
+  - [0. 软件选型](#0-%E8%BD%AF%E4%BB%B6%E9%80%89%E5%9E%8B)
+  - [1. 软件安装](#1-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85)
+    - [1.1. 安装Git](#11-%E5%AE%89%E8%A3%85git)
+    - [1.2. 安装Windows Terminal](#12-%E5%AE%89%E8%A3%85windows-terminal)
+    - [1.3. 获取相关配置文件](#13-%E8%8E%B7%E5%8F%96%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+  - [2. 终端设置](#2-%E7%BB%88%E7%AB%AF%E8%AE%BE%E7%BD%AE)
+    - [2.1. Git 设置](#21-git-%E8%AE%BE%E7%BD%AE)
+      - [2.1.1. 安装字体](#211-%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93)
+      - [2.1.2. 安装主题](#212-%E5%AE%89%E8%A3%85%E4%B8%BB%E9%A2%98)
+      - [2.1.3. 安装拓展命令](#213-%E5%AE%89%E8%A3%85%E6%8B%93%E5%B1%95%E5%91%BD%E4%BB%A4)
+      - [2.1.4. 配置alias](#214-%E9%85%8D%E7%BD%AEalias)
+    - [2.2. Windows Terminal 设置](#22-windows-terminal-%E8%AE%BE%E7%BD%AE)
+  - [3. 其他](#3-%E5%85%B6%E4%BB%96)
+    - [3.1. VS Code 使用 Git](#31-vs-code-%E4%BD%BF%E7%94%A8-git)
+    - [3.2. Terminal 快捷键唤出](#32-terminal-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%94%A4%E5%87%BA)
+  - [4. 参考文章](#4-%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0)
+  - [5. Update](#5-update)
 
 ## 0. 软件选型
 
